@@ -1,6 +1,7 @@
 connection: "sales_dummy"
 
 include: "/views/**/*.view.lkml"
+include: "/Dashboard/**/*.dashboard.lookml"
 
 
 datagroup: sales_pris_default_datagroup {

@@ -17,4 +17,5 @@ view: markets {
     type: count
     drill_fields: [markets_name]
   }
+
 }

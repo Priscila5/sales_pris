@@ -119,8 +119,8 @@
     col: 0
     width: 16
     height: 6
-  - title: Zona de mercados
-    name: Zona de mercados
+  - title: Mercados por zona
+    name: Mercados por zona
     model: sales_pris
     explore: markets
     type: looker_bar
